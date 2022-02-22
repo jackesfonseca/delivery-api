@@ -1,2 +1,2 @@
 # Delivery API
-Dedicated to Flask concepts learning
+Dedicated Flask API project
